@@ -1,4 +1,4 @@
-# Web form - UI Tests
+# automation-exercise-1 - Web form - UI Tests
 
 This setup is optimized for Cucumber + Serenity + Selenium for end-to-end browser-based automation.
 
